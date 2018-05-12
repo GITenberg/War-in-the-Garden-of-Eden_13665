@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5190
     wikipedia: http://en.wikipedia.org/wiki/Kermit_Roosevelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13665#War-in-the-Garden-of-Eden
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-10-11'
 gutenberg_type: Text
